@@ -1,0 +1,9 @@
+{
+  "name": "zenn",
+  "context": "..",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "zenn",
+  "appPort": [
+    8000
+  ],
+}
